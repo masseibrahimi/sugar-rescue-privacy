@@ -1,14 +1,13 @@
 # Sugar Rescue Privacy Policy
 
-*Last updated: October 28, 2026*
+*Last updated: October 29, 2026*
 
 Sugar Rescue ("the game") is a free, ad-supported match-3 game made by Masee. This policy explains what information is used when you play.
 
 
-## Your game progress stays on your phone
+## Your game progress
 
-Your levels, stars, coins, boosters, home repairs and settings are saved only on your device. The game has no accounts and no servers of ours, and we cannot see this data. Uninstalling the game deletes it.
-
+Your levels, stars, coins, boosters, home repairs and settings are saved on your device. If you are signed in to Google Play Games, the game also keeps a copy of this progress in your Play Games account (Saved Games) so you get it back on a new phone or after reinstalling. This copy is stored by Google under the [Google Privacy Policy](https://policies.google.com/privacy). The game has no servers of ours, and we cannot see this data.
 
 ## Advertising
 
@@ -36,8 +35,7 @@ The game is made for a general audience and is not directed at children under 13
 
 ## Deleting your data
 
-Uninstall the game to delete everything it saved. To control ad data, use the ad settings on your phone described above.
-
+Uninstall the game to delete what it saved on your phone. To delete the cloud copy, open the Google Play Games app or your [Google Account data settings](https://myaccount.google.com/data-and-privacy) and delete Sugar Rescue's game data. To control ad data, use the ad settings on your phone described above.
 
 ## Changes
 
